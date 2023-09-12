@@ -9,5 +9,7 @@ Description: A simple genetic analysis using R programming language
 Depends:
 	R (>= 4.3.1)
 	BiocManager (>= 1.30.16),
-	SNPstats (>= 1.42.0),
+	snpStats (>= 1.42.0),
 	ggplot2 (>= 3.3.0)
+
+License: STechBD

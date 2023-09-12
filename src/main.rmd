@@ -1,0 +1,41 @@
+# Genetic Analysis using R Programming Language
+
+A project to analyze genetic data using R programming language. I am going to use packages named BiocManager (>= 1.30.16), SNPstats, and ggplot2 for this project.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites and Installing
+
+What things you need to install the software and how to install them
+
+```
+R
+RStudio
+```
+
+### Installing Packages
+
+```
+install.packages('BiocManager')
+install.packages('snpStats')
+install.packages('ggplot2')
+```
+
+## Running the tests
+
+```
+library(BiocManager)
+library(snpStats)
+library(ggplot2)
+```
+
+## Built With
+
+* [R](https://www.r-project.org/) - The R Project for Statistical Computing
+* [PyCharms](https://www.jetbrains.com/pycharm/) - Python IDE for Professional Developers
+
+## Authors
+
+1. [Md. Ashraful Alam Shemul](https://www.facebook.com/AAShemul)
