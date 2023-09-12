@@ -1,0 +1,13 @@
+Package: Genetic-Analysis
+Type: Package
+Title: Genetic Analysis in R Programming Language
+Version: 1.0.0
+Author: Md. Ashraful Alam Shemul
+Maintainer: ceo@stechbd.net
+Description: A simple genetic analysis using R programming language
+
+Depends:
+	R (>= 4.3.1)
+	BiocManager (>= 1.30.16),
+	SNPstats (>= 1.42.0),
+	ggplot2 (>= 3.3.0)
